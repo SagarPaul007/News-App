@@ -1,4 +1,4 @@
-const apikey = "05dac44cbf90473b972713f74ae624ab";
+const apikey = "05dac44cbf90473b972713f74ae624ab"; // don't use the same api key
 
 // variables
 let newsItem;
